@@ -12,7 +12,7 @@ struct FruitNutrients: View {
     // MARK: - PROPERTIES
     
     var fruit: Fruit
-    let nutrients: [String] = ["المؤلف", "القصة", "Fat", "Protein", "Vitamins", "Minerals"]
+    let nutrients: [String] = ["الطاقة","السكر","الدهون","البروتينات","الفيتامينات","المعادن"]
     
     // MARK: - BODY
     
